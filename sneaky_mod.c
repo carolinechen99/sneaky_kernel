@@ -1,14 +1,3 @@
-// #include <linux/module.h> // for all modules
-// #include <linux/init.h>   // for entry/exit macros
-// #include <linux/kernel.h> // for printk and other kernel bits
-// #include <asm/current.h>  // process information
-// #include <linux/sched.h>
-// #include <linux/highmem.h> // for changing page permissions
-// #include <asm/unistd.h>    // for system call constants
-// #include <linux/kallsyms.h>
-// #include <asm/page.h>
-// #include <asm/cacheflush.h>
-// #include <linux/slab.h>
 #include <linux/module.h>
 #include <linux/init.h>
 #include <linux/kernel.h>
